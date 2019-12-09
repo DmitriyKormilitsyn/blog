@@ -1,2 +1,2 @@
 # blog
-blog c# lr db
+blog lr db
